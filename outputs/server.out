@@ -1,0 +1,193 @@
+(flwr) PS D:\codes\flower\clique> python .\server.py
+INFO :      Starting Flower server, config: num_rounds=20, no round_timeout
+INFO :      Flower ECE: gRPC server running (20 rounds), SSL is disabled
+INFO :      [INIT]
+INFO :      Requesting initial parameters from one random client
+INFO :      Received initial parameters from one random client
+INFO :      Evaluating initial global parameters
+INFO :
+INFO :      [ROUND 1]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+WARNING :   No evaluate_metrics_aggregation_fn provided
+INFO :
+INFO :      [ROUND 2]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [ROUND 3]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [ROUND 4]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [ROUND 5]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [ROUND 6]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [ROUND 7]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [ROUND 8]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [ROUND 9]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [ROUND 10]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [ROUND 11]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [ROUND 12]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [ROUND 13]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [ROUND 14]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [ROUND 15]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [ROUND 16]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [ROUND 17]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [ROUND 18]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [ROUND 19]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [ROUND 20]
+INFO :      configure_fit: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_fit: received 3 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 3 clients (out of 3)
+INFO :      aggregate_evaluate: received 3 results and 0 failures
+INFO :
+INFO :      [SUMMARY]
+INFO :      Run finished 20 rounds in 24.30s
+INFO :      History (loss, distributed):
+INFO :          ('\tround 1: 514.3643040012669\n'
+INFO :           '\tround 2: 112.85921004011824\n'
+INFO :           '\tround 3: 170.58584924646325\n'
+INFO :           '\tround 4: 161.46637746450062\n'
+INFO :           '\tround 5: 113.6787010399071\n'
+INFO :           '\tround 6: 110.5534288561022\n'
+INFO :           '\tround 7: 90.69442398483689\n'
+INFO :           '\tround 8: 113.95692650047508\n'
+INFO :           '\tround 9: 79.77615954424884\n'
+INFO :           '\tround 10: 93.1744764173353\n'
+INFO :           '\tround 11: 157.25902742952914\n'
+INFO :           '\tround 12: 110.16896283948743\n'
+INFO :           '\tround 13: 108.49219430459512\n'
+INFO :           '\tround 14: 62.900864059860645\n'
+INFO :           '\tround 15: 81.03472962250581\n'
+INFO :           '\tround 16: 64.41500813252217\n'
+INFO :           '\tround 17: 107.97603998957453\n'
+INFO :           '\tround 18: 53.77800956932274\n'
+INFO :           '\tround 19: 60.86871440990551\n'
+INFO :           '\tround 20: 30.559306995288747\n')History (metrics, distributed, fit):
+INFO :          {'accuracy': [(1, 0.4918918918918919),
+INFO :                        (2, 0.5942567567567567),
+INFO :                        (3, 0.5709459459459459),
+INFO :                        (4, 0.6574324324324324),
+INFO :                        (5, 0.6557432432432433),
+INFO :                        (6, 0.6847972972972973),
+INFO :                        (7, 0.6591216216216216),
+INFO :                        (8, 0.7006756756756757),
+INFO :                        (9, 0.6756756756756757),
+INFO :                        (10, 0.6679054054054054),
+INFO :                        (11, 0.6314189189189189),
+INFO :                        (12, 0.6746621621621621),
+INFO :                        (13, 0.6726351351351352),
+INFO :                        (14, 0.6922297297297297),
+INFO :                        (15, 0.6621621621621622),
+INFO :                        (16, 0.6949324324324324),
+INFO :                        (17, 0.6743243243243243),
+INFO :                        (18, 0.6831081081081081),
+INFO :                        (19, 0.6763513513513514),
+INFO :                        (20, 0.7006756756756757)],
+INFO :           'loss': [(1, 806.3682665438265),
+INFO :                    (2, 537.1571472786568),
+INFO :                    (3, 479.1813454499116),
+INFO :                    (4, 345.41227294303275),
+INFO :                    (5, 329.88720672195024),
+INFO :                    (6, 265.48487634916563),
+INFO :                    (7, 292.72699722083837),
+INFO :                    (8, 192.334450309341),
+INFO :                    (9, 226.35250710152292),
+INFO :                    (10, 190.58979078241296),
+INFO :                    (11, 297.2377228092503),
+INFO :                    (12, 204.90860954490867),
+INFO :                    (13, 203.7089091893789),
+INFO :                    (14, 164.4835758982478),
+INFO :                    (15, 207.73546370944462),
+INFO :                    (16, 129.37514446877145),
+INFO :                    (17, 173.07721197282945),
+INFO :                    (18, 147.3523390228684),
+INFO :                    (19, 147.99303900228963),
+INFO :                    (20, 102.78688251650011)]}
+INFO :

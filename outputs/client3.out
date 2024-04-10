@@ -1,0 +1,205 @@
+(flwr) PS D:\codes\flower\clique> python .\client.py --n 1500 --simulate_seed 33 --batch_size 100
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message 9c06e72b-c3f2-4cec-ac3a-9ac20f590cdf
+>>> Local training - Epoch 1/1 - Average Loss: 823.5293, Accuracy: 0.4950
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message 3db02e2d-23c7-4c2e-8f5a-5138408a2750
+>>> Local testing - Average Loss: 497.1181, Accuracy: 0.6333
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message a0446367-f7e6-4721-a677-34c1575f1f16
+>>> Local training - Epoch 1/1 - Average Loss: 467.4023, Accuracy: 0.5992
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message 908f3723-313b-40b6-8e97-08e1d1aa87ff
+>>> Local testing - Average Loss: 97.3635, Accuracy: 0.7200
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message fa64b0de-21e8-4b5c-9c98-bcb9194edcc0
+>>> Local training - Epoch 1/1 - Average Loss: 253.1758, Accuracy: 0.6067
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message 47adcda9-a762-4475-8fef-e406b6a688b7
+>>> Local testing - Average Loss: 182.0743, Accuracy: 0.6867
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message 05b92e59-7f96-4333-b103-151e6e44cc38
+>>> Local training - Epoch 1/1 - Average Loss: 341.0483, Accuracy: 0.6417
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message 21a4153e-3d4a-4363-85a9-ac8f0e6b69e0
+>>> Local testing - Average Loss: 153.4363, Accuracy: 0.7267
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message 4a8797a1-7abd-4668-a192-4a14fb08764f
+>>> Local training - Epoch 1/1 - Average Loss: 288.7006, Accuracy: 0.6800
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message 2d76fc92-4762-44d4-81ff-89fe2bd39214
+>>> Local testing - Average Loss: 124.0460, Accuracy: 0.7600
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message 24f20182-69b5-4731-986e-1969d7461445
+>>> Local training - Epoch 1/1 - Average Loss: 245.2639, Accuracy: 0.6775
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message 3a8a8221-5be2-401c-86f0-3ce295b5edb4
+>>> Local testing - Average Loss: 106.2799, Accuracy: 0.7500
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message 068e916d-40b6-4624-b3a3-ef131afc6016
+>>> Local training - Epoch 1/1 - Average Loss: 358.0356, Accuracy: 0.6533
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message aa95600e-2234-44c3-b941-a666c0e061d8
+>>> Local testing - Average Loss: 97.0518, Accuracy: 0.7800
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message 8bd89b35-c211-429c-b400-77a3d0138c6c
+>>> Local training - Epoch 1/1 - Average Loss: 224.9137, Accuracy: 0.6875
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message 72fc750e-f70e-4cc4-86fe-56c0fc1aa424
+>>> Local testing - Average Loss: 133.6481, Accuracy: 0.6967
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message 26176bf1-663e-4cd3-91c7-0883a30a96bb
+>>> Local training - Epoch 1/1 - Average Loss: 203.6906, Accuracy: 0.6717
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message 73a661ab-a9de-404b-80f6-9825a1efa7d8
+>>> Local testing - Average Loss: 79.2785, Accuracy: 0.7700
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message 05479908-cf19-407f-8016-04bc6fc59b5a
+>>> Local training - Epoch 1/1 - Average Loss: 118.9737, Accuracy: 0.6992
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message b7814cc7-1d09-4a73-bd3b-a9865a87fbf0
+>>> Local testing - Average Loss: 84.5036, Accuracy: 0.7267
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message 5f293588-63d9-4a15-b1fb-30479398714f
+>>> Local training - Epoch 1/1 - Average Loss: 302.7549, Accuracy: 0.6300
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message eb788381-ac58-498e-9416-04a8ddf34e68
+>>> Local testing - Average Loss: 181.5630, Accuracy: 0.6900
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message 37c83705-ee18-49cf-a1d1-5850df10cb35
+>>> Local training - Epoch 1/1 - Average Loss: 222.4721, Accuracy: 0.6483
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message 951c78b9-bb90-44c4-a1cb-8a1951946a6b
+>>> Local testing - Average Loss: 101.0763, Accuracy: 0.7467
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message 655c969c-d488-4f31-b4cb-73d52d58ffd6
+>>> Local training - Epoch 1/1 - Average Loss: 217.2154, Accuracy: 0.6542
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message cf59f5ef-9a25-4005-88c5-af32e21462a7
+>>> Local testing - Average Loss: 121.3099, Accuracy: 0.7633
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message a65524ec-24a8-4146-ac37-a0449ae5deed
+>>> Local training - Epoch 1/1 - Average Loss: 158.9579, Accuracy: 0.6792
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message fd0c8c21-e32c-4641-9e50-4ecb5d8e406c
+>>> Local testing - Average Loss: 63.4110, Accuracy: 0.7567
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message 17460bbb-bc7b-4923-8d90-82917131522a
+>>> Local training - Epoch 1/1 - Average Loss: 200.6498, Accuracy: 0.6617
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message 6b38f70b-9d8e-44b8-876b-a2c7cf98ef03
+>>> Local testing - Average Loss: 87.7033, Accuracy: 0.7600
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message 1761e545-9a8f-4306-9c84-5d4344b27249
+>>> Local training - Epoch 1/1 - Average Loss: 101.1349, Accuracy: 0.7033
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message d3740e36-3bc4-4d3d-9501-3e08ca86fcb8
+>>> Local testing - Average Loss: 64.1557, Accuracy: 0.7200
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message 855b6460-0ca6-41a3-8c25-ab703fe6b016
+>>> Local training - Epoch 1/1 - Average Loss: 181.2326, Accuracy: 0.6875
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message dedf8211-29e4-489a-a28c-c6fbc5b3da40
+>>> Local testing - Average Loss: 130.8630, Accuracy: 0.6833
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message 1b737487-ed6b-4e1f-9575-51448e204769
+>>> Local training - Epoch 1/1 - Average Loss: 128.2973, Accuracy: 0.6842
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message 9858d006-eba5-4008-a592-c4b9fb7368f4
+>>> Local testing - Average Loss: 51.5923, Accuracy: 0.7567
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message f6316ef6-a977-45b4-b777-2758295deeb7
+>>> Local training - Epoch 1/1 - Average Loss: 148.3653, Accuracy: 0.6700
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message 19803e74-11aa-45b1-9a49-85b56a853ab3
+>>> Local testing - Average Loss: 61.6040, Accuracy: 0.7700
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: train message 0e9d2e8f-7c6a-48d7-8128-22ca37b4de6b
+>>> Local training - Epoch 1/1 - Average Loss: 65.2775, Accuracy: 0.6925
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: evaluate message bebadcb1-854b-47e3-b476-7cc86f52f6c8
+>>> Local testing - Average Loss: 37.2466, Accuracy: 0.7833
+INFO :      Sent reply
+INFO :
+INFO :      [RUN 0, ROUND ]
+INFO :      Received: reconnect message 4c54a761-e8f1-410d-830f-c3b4310f46a7
+INFO :      Disconnect and shut down
